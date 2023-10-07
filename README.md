@@ -15,5 +15,7 @@ Hi and welcome! I am Associate Professor in Petrology and Volcanology at the <a 
 ### Current Projects
 
 - Book: [Introduction to Python in Earth Science Data Analysis - repository](https://github.com/petrelli-m/python_earth_science_book)
+- Book: [Machine Learning for Earth Sciences - repository](https://github.com/petrelli-m/machine_learning_earth_sciences)
+
 
 
